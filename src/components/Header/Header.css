@@ -1,0 +1,12 @@
+.menu a {
+    text-decoration: none;
+    margin: 20px;
+}
+
+.head {
+    background-color: rgb(202 239 209);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(132 132 99);
+    margin: 10px;
+}

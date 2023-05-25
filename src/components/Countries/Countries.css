@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(202 239 209);
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(132 132 99);
+    margin: 10px;
+}
+
+.countries_container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin: 10px;
+}
